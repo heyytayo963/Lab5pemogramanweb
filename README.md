@@ -99,10 +99,10 @@
 
 - Output :
 
-![image](https://github.com/adityaputrawijaya/Lab5web/assets/115687055/ef08b23a-5115-402a-ab15-029feb471677)
+![image](IMG-20231030-WA0027.jpg)
 
 
-![image](https://github.com/adityaputrawijaya/Lab5web/assets/115687055/42b4b475-25f4-432b-91e1-840e8fc42cb7)
+
 
 
 
