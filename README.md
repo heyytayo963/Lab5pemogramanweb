@@ -267,7 +267,7 @@ _ Output :
 ![image](278850315-1f1fedab-1336-4077-ba3a-e85364e78607.png)
 
 
-![image](https://github.com/adityaputrawijaya/Lab5web/assets/115687055/47ff40fd-23d3-4e32-b20b-ff90761f43d2)
+![image](https://github.com/heyytayo963/Lab5pemogramanweb/blob/main/278850354-47ff40fd-23d3-4e32-b20b-ff90761f43d2.png)
 
 
 
@@ -302,7 +302,7 @@ _ Output :
 
 - output :
 
-![image](https://github.com/adityaputrawijaya/Lab5web/assets/115687055/d82ce2cd-238e-4e2b-b7c2-03fd8fbe9f24)
+![image](https://github.com/heyytayo963/Lab5pemogramanweb/blob/main/278850402-d82ce2cd-238e-4e2b-b7c2-03fd8fbe9f24.png)
 
 
 
