@@ -23,8 +23,8 @@
 
 - Output :
 
-![image](https://github.com/adityaputrawijaya/Lab5web/assets/115687055/021a565e-fdbe-4119-a70e-09b6a06391e8)
-![image](https://github.com/adityaputrawijaya/Lab5web/assets/115687055/bf48e7de-19c6-498c-98b6-fa933b295f4a)
+![image](https://github.com/heyytayo963/Lab5pemogramanweb/blob/main/278849724-021a565e-fdbe-4119-a70e-09b6a06391e8.png)
+![image](https://github.com/heyytayo963/Lab5pemogramanweb/blob/main/278849783-bf48e7de-19c6-498c-98b6-fa933b295f4a.png)
 
 
 
@@ -49,7 +49,7 @@
 
 - Output:
 
-![image](https://github.com/adityaputrawijaya/Lab5web/assets/115687055/b6cb6111-200b-4933-bb3f-b638b0122bf7)
+![image](https://github.com/heyytayo963/Lab5pemogramanweb/blob/main/278849886-b6cb6111-200b-4933-bb3f-b638b0122bf7.png)
 
 
 
@@ -74,7 +74,7 @@
 
 - Output:
 
-![image](https://github.com/adityaputrawijaya/Lab5web/assets/115687055/0958f50d-1c18-4ae8-bbc0-149098734499)
+![image](https://github.com/heyytayo963/Lab5pemogramanweb/blob/main/278849946-0958f50d-1c18-4ae8-bbc0-149098734499.png)
 
 
 
