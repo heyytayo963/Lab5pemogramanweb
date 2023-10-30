@@ -167,10 +167,10 @@
 
 - Output :
 
-![image](https://github.com/adityaputrawijaya/Lab5web/assets/115687055/10ebd236-b553-4ba5-95bb-a16f290d497f)
+![image](278850079-10ebd236-b553-4ba5-95bb-a16f290d497f.png)
 
 
-![image](https://github.com/adityaputrawijaya/Lab5web/assets/115687055/b4c2cdad-a9f3-4dbc-bf64-44876abc4c3a)
+![image](278850098-b4c2cdad-a9f3-4dbc-bf64-44876abc4c3a.png)
 
 
 
@@ -200,10 +200,10 @@
 
 - Output :
 
-![image](https://github.com/adityaputrawijaya/Lab5web/assets/115687055/79fe2920-6c3f-4882-ab44-36ff180a990f)
+![image](278850129-79fe2920-6c3f-4882-ab44-36ff180a990f.png)
 
 
-![image](https://github.com/adityaputrawijaya/Lab5web/assets/115687055/bf3f0245-3969-4666-b085-361c2e72f0fe)
+![image](278850146-bf3f0245-3969-4666-b085-361c2e72f0fe.png)
 
 
 
@@ -253,12 +253,13 @@ _ Output :
 
 - 1. Jika di isi
 
-![image](https://github.com/adityaputrawijaya/Lab5web/assets/115687055/e33885db-168c-4213-adf6-ce28feec47b2)
+![image](278850211-e33885db-168c-4213-adf6-ce28feec47b2.png)
 
 
-![image](https://github.com/adityaputrawijaya/Lab5web/assets/115687055/226e9cc1-1bfb-4c06-9a48-587f0ca27e82)
 
-![image](https://github.com/adityaputrawijaya/Lab5web/assets/115687055/1c187599-3241-4668-8062-aa62f99ca6c5)
+![image](278850240-226e9cc1-1bfb-4c06-9a48-587f0ca27e82.png)
+
+![image](278850274-1c187599-3241-4668-8062-aa62f99ca6c5.png)
 
 
 - 2. Jika tidak di isi
