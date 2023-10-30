@@ -264,7 +264,7 @@ _ Output :
 
 - 2. Jika tidak di isi
 
-![image](https://github.com/adityaputrawijaya/Lab5web/assets/115687055/1f1fedab-1336-4077-ba3a-e85364e78607)
+![image](278850315-1f1fedab-1336-4077-ba3a-e85364e78607.png)
 
 
 ![image](https://github.com/adityaputrawijaya/Lab5web/assets/115687055/47ff40fd-23d3-4e32-b20b-ff90761f43d2)
