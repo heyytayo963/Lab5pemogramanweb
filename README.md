@@ -520,4 +520,4 @@ input[type="submit"]:hover {
 
 - output
 
-![image](https://github.com/adityaputrawijaya/Lab5web/assets/115687055/e6314caf-0108-4966-8383-46022c3b0ede)
+![image]()
